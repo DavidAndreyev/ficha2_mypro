@@ -1,1 +1,6 @@
-Este é o exemplo de um ficheiro de texto file3
+Apaguei esta linha e meti esta!!!
+
+
+
+
+Alterei a ficha3.txt
