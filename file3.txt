@@ -3,4 +3,10 @@ Apaguei esta linha e meti esta!!!
 
 
 
-Alterei a ficha3.txt
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffe</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
