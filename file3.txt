@@ -1,4 +1,5 @@
-Apaguei esta linha e meti esta!!!
+
+
 
 
 
@@ -9,4 +10,14 @@ Apaguei esta linha e meti esta!!!
   <li>Coffe</li>
   <li>Tea</li>
   <li>Milk</li>
+
+<h1>Listas de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+
 </ul>
