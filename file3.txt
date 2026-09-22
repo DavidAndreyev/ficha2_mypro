@@ -3,4 +3,12 @@ Apaguei esta linha e meti esta!!!
 
 
 
-Alterei a ficha3.txt
+<h1>Listas de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
